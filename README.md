@@ -11,7 +11,7 @@ class Bio extends DataAnalyst {
 }
 class Skills extends DataAnalyst {
    Visualization  = ['Power BI', 'Excel', 'Seaborn', 'Mathplotlib'];
-   Analytical_tools = ['MySQL', 'Pandas', 'Numby'];
+   Analytical_tools = ['MySQL', 'Pandas', 'Numpy'];
 }
 ```
 
