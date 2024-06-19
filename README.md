@@ -16,7 +16,7 @@ class Skills extends DataAnalyst {
 ```
 
 
-- 🔭 I’m currently working on [Medcos](https://github.com/lokeshpal27/MEDCOS-DoctorFeePrediction)
+- 🔭 I’m currently learning **MACHINE LEARNING**
 
 - 🌱 I’m currently practicing **DATA ANALYSIS**
 
