@@ -24,7 +24,7 @@ class Skills extends DataAnalyst {
 
 - 📫 How to reach me **pallokesh43@gmail.com +91 8171712109**
 
-- 📄 Know about my experiences (Resume) [[https://drive.google.com/drive/folders/12mA8HAOQ3ia-hx1iJRmogwJ7B6ES89dT?usp=share_link](https://drive.google.com/drive/folders/12mA8HAOQ3ia-hx1iJRmogwJ7B6ES89dT?usp=share_link)]
+- 📄 Know about my experiences (Resume) []
 
 
 <h3 align="left">Connect with me:</h3>
