@@ -22,7 +22,7 @@ class Skills extends DataAnalyst {
 
 - 💬 Ask me about **Business Analysis**
 
-- 📫 How to reach me **pallokesh43@gmail.com +91 8171712109**
+- 📫 How to reach me **pallokesh43@gmail.com +91 **
 
 - 📄 Know about my experiences (Resume) []
 
