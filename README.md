@@ -1,11 +1,11 @@
 <h1 align="center">Namaste 👋, I'm Lokesh Pal</h1>
-<h3 align="center">Data Analyst From Nainital Uttarakhand India</h3>
+<h3 align="center">Data Scientist From Nainital Uttarakhand India</h3>
 
 ```js
 import DataAnalyst from 'India';
 class Bio extends DataAnalyst {
   name     = 'Lokesh Pal';
-  title    = 'Data Analyst' ;
+  title    = 'Data Scientist' ;
   location = 'Nainital, India' || 'Remote ';
   availability = "Available to hire!!";
 }
@@ -16,11 +16,9 @@ class Skills extends DataAnalyst {
 ```
 
 
-- 🔭 I’m currently learning **MACHINE LEARNING**
+- 🔭 I’m currently learning **GEN AI**
 
-- 🌱 I’m currently practicing **DATA ANALYSIS**
-
-- 💬 Ask me about **Business Analysis**
+- 🌱 I’m currently practicing **DATA SCIENCE**
 
 - 📫 How to reach me **pallokesh43@gmail.com +91 **
 
