@@ -2,18 +2,14 @@
 <h3 align="center">Data Scientist From Nainital Uttarakhand India</h3>
 
 ```js
-import DataAnalyst from 'India';
-class Bio extends DataAnalyst {
-  name     = 'Lokesh Pal';
-  title    = 'Data Scientist' ;
-  location = 'Nainital, India' || 'Remote ';
-  availability = "Available to hire!!";
+import DataScientist from 'India';
+ DataScientist ={
+  name   :'Lokesh Pal';
+  title   :'Data Scientist' ;
+  location :'Nainital, India' || 'Remote ';
+  availability : "Available to hire!!";
 }
-class Skills extends DataAnalyst {
-   Visualization  = ['Power BI', 'Excel', 'Seaborn', 'Mathplotlib'];
-   Analytical_tools = ['MySQL', 'Pandas', 'Numpy'];
-}
-```
+
 
 
 - 🔭 I’m currently learning **GEN AI**
